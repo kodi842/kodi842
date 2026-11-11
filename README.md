@@ -5,11 +5,11 @@
 **Стек:** PHP · WordPress · Python · FastAPI · TypeScript · React · Next.js · PostgreSQL · Docker
 
 #### Проекты
-- [petto-lab3](https://github.com/kodi842/petto-lab3) — Petto, соцсеть для владельцев животных (Next.js) · [демо](https://petto-lab3.vercel.app)
-- [neoflex_coursework](https://github.com/kodi842/neoflex_coursework) — ETL и витрины данных на PostgreSQL (курсовая Neoflex)
-- [MagazineAPI](https://github.com/kodi842/MagazineAPI) — Web API на ASP.NET Core
-- [deepNN3kurs](https://github.com/kodi842/deepNN3kurs) — нейросети с нуля: перцептрон, градиентный спуск
+- [edu-petto-nextjs](https://github.com/kodi842/edu-petto-nextjs) — Petto, соцсеть для владельцев животных (Next.js) · [демо](https://petto-lab3.vercel.app)
+- [edu-neoflex-dwh-etl](https://github.com/kodi842/edu-neoflex-dwh-etl) — ETL и витрины данных на PostgreSQL (курсовая Neoflex)
+- [edu-magazine-api](https://github.com/kodi842/edu-magazine-api) — Web API на ASP.NET Core
+- [edu-neural-networks](https://github.com/kodi842/edu-neural-networks) — нейросети с нуля: перцептрон, градиентный спуск
 
 #### Учёба
-- [vt-labs](https://github.com/kodi842/vt-labs) — лабораторные по C
-- [kursFloyd](https://github.com/kodi842/kursFloyd) — алгоритм Флойда–Уоршелла на C++
+- [edu-c-labs](https://github.com/kodi842/edu-c-labs) — лабораторные по C
+- [edu-floyd-warshall-cpp](https://github.com/kodi842/edu-floyd-warshall-cpp) — алгоритм Флойда–Уоршелла на C++
