@@ -2,6 +2,8 @@
 
 Data Scientist с уклоном в **NLP и LLM**: строю конвейеры обработки текстов, классификацию и скоринг на языковых моделях, дедупликацию по эмбеддингам, оценку качества моделей (evals). Пришёл из веб-разработки, поэтому довожу модели до работающего продукта: API, боты, отчёты и дашборды.
 
+🌐 [kodi842.github.io](https://kodi842.github.io) · [English version](https://kodi842.github.io/?lang=en) · Telegram [@m4xorix](https://t.me/m4xorix)
+
 **Стек:** Python · NumPy · sentence-transformers · Whisper · LLM API (Claude, DeepSeek, OpenAI-совместимые) · prompt engineering · SQL / PostgreSQL · ETL · FastAPI · Docker
 
 #### 🧠 ИИ и данные
